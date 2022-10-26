@@ -1,0 +1,2 @@
+# A feature is a service that fulfills 1 need a businesses has.
+Stories.
