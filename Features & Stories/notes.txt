@@ -1,2 +1,20 @@
-# A feature is a service that fulfills 1 need a businesses has.
-Stories.
+# Epics -
+# Features - A feature is a service that fulfills 1 need a businesses has.
+#User Stories - Similar to a trouble ticketing system we work on tasks and document key details
+such as: Who chose said story
+         Notes on progression & refactor
+         *MOST IMPORTANT* Updating progress(almost exactly like trouble tickets)
+
+
+Visual Representation-
+
+Backlog:
+Story #4
+Story #5
+
+In Progress:
+Story #3
+
+Done:
+Story #1
+Story #2
