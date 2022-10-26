@@ -1,0 +1,14 @@
+*Product Strategy & Roadmap
+*Set-Up Team
+*Define The Product Backlog
+*MVP (Min. viable product)
+*Define the "Release Plan"
+*Get Started (Sprint)
+
+
+Product Roadmap & Strategy -
+
+Organizational Strategy -
+Structure idea's/goals
+Define strategy & "idea's" based on strategic "idea's/goals
+Then we manage project through Scrum or KanBan backlog

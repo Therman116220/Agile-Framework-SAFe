@@ -1,6 +1,0 @@
-*Product Strategy & Roadmap
-*Set-Up Team
-*Define The Product Backlog
-*MVP (Min. viable product)
-*Define the "Release Plan"
-*Get Started
