@@ -1,0 +1,25 @@
+Lead Time(LT) -
+Part of Activity Ratio. Time from when work was ready after the previous station to completion
+
+Process Time(PT) -
+    Percent of Activity Ratio. Time to complete actual value-added work
+
+Percent Complete & Accuracy (%C&A) -
+    Percent of work that the next station could process as-is
+
+Activity Ratio -
+    Measures activity efficiency (PT/LT)
+
+FLOW-the ratio between your active time and total time
+
+Rolled Percent Compl. & Accuracy -
+    Efficiency of entire flow
+EX:divide actively work time w/ total cycle time
+    then multiply results by hundred.
+    (%C&A 1 %C&A 2 %C&A n * 100)
+
+Lean -
+Define the hypothesis,
+build a minimum viable product (MVP),
+continuously evaluate the MVP & implement additional features
+

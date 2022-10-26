@@ -5,7 +5,7 @@ Origin: Software Dev.
 Ideology: Solve extensive tasks & deliver high quality product
 
 Practices:
-TIMELINES ARE TIMEBOXED INTO SPRINTS -
+
 Sprint planning
 init Sprint
 Daily Scrum

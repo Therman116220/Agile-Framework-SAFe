@@ -1,4 +1,4 @@
-*Product Strategy & Roadmap
+*Product  Roadmap
 *Set-Up Team
 *Define The Product Backlog
 *MVP (Min. viable product)
@@ -6,9 +6,27 @@
 *Get Started (Sprint)
 
 
-Product Roadmap & Strategy -
-
-Organizational Strategy -
+Product Strategy -
 Structure idea's/goals
 Define strategy & "idea's" based on strategic "idea's/goals
 Then we manage project through Scrum or KanBan backlog
+
+Other Agile Frameworks:
+KanBan
+Test Driven Development (TDD)
+Feature Driven
+Development Extreme Programming (XP)
+Crystal
+
+Scaled Agile Framework (SAFe)?
+
+Was Pioneered by Dean Leffingwell.
+SAFe is an enterprise-scale development framework consisting of
+Lean Product Dev.
+Agile Software Dev.
+System Thinking
+
+Lean -
+Define the hypothesis,
+build a minimum viable product (MVP),
+continuously evaluate the MVP & implement additional features
