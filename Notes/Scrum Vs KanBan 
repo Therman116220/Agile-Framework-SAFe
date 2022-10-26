@@ -1,8 +1,11 @@
-Origin
+*SCRUM
+
+Origin: Software Dev.
 
 Ideology: Solve extensive tasks & deliver high quality product
 
 Practices:
+TIMELINES ARE TIMEBOXED INTO SPRINTS -
 Sprint planning
 init Sprint
 Daily Scrum
@@ -10,8 +13,28 @@ Sprint review
 Sprint retrospect
 
 Roles:
+PRE-DEFINED CONSISTING OF -
 Product Owner & Client
 Scrum Master
 Development Team
 
 Metrics: Velocity
+        Story points completed in each sprint.
+
+*KANBAN
+
+Origin: MANUFACTURING
+
+Ideology: Improved workflow/process through visual representations
+
+Practices:
+Workflow visualization
+Manage flow
+Explicit policies regarding process
+Implement feedback(loops) given & improve upon
+
+Roles:
+Fluid w/ project manager optional
+shared tasks
+
+Metrics: Changes can be made mid project to aloow time for iteration
